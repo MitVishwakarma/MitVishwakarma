@@ -17,8 +17,8 @@ Mobile: +91-8092652448
 E-Mail: mitvish2004@gmail.com  
 
 ## Socials:
-LinkedIn:   
-GitHub:  
+LinkedIn: https://www.linkedin.com/in/mit-vishwakarma-1285ab299/     
+GitHub: https://github.com/MitVishwakarma  
 
 <!--
 **MitVishwakarma/MitVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
