@@ -10,7 +10,7 @@ Programming Languages : Python, SQL, C++
 Database : MySQL  
 Python Libraries : Pandas, NumPy, Seaborn, Matplotlib, Plotly, SKlearn  
 Machine Learning Models : Supervised (Regression : Linear; Classification : Logistic, KNN, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)  
-Other skills : C++  
+Other skills : C++, DSA
 
 ## Contact:
 Mobile: +91-8092652448  
