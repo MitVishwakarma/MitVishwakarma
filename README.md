@@ -1,36 +1,47 @@
-## Mit Vishwakarma - Data Analytics, Data Science and Tech Enthusiast.
-Aspiring data scientist and passionate coding and tech enthusiast, I am an electronics engineering student eager to explore and contribute to the world of data science and other technology. Constantly learning, experimenting, and improving, I aim to combine analytical skills with programming expertise to create impactful solutions and implementations. Open to collaboration and innovation!
+# 👋 Hi, I'm Mit Vishwakarma
 
-## Interests:
-Passionate about learning new technologies, I’m always eager to expand my knowledge in coding and acquire practical, useful skills. Open to exploring innovations and continuously improving through hands-on experience.
+Aspiring Full Stack Developer and Electronics & Communication Engineering student at BIT Mesra. I love building scalable web apps and solving real-world problems using code. Whether it's diving into the MERN stack or cracking DSA challenges, I'm constantly learning and pushing my limits.
 
-## My Tech Stack:
-Data Visualization Tools : Tableau, MsExcel charts and plots  
-Programming Languages : Python, SQL, C++  
-Database : MySQL  
-Python Libraries : Pandas, NumPy, Seaborn, Matplotlib, Plotly, SKlearn  
-Machine Learning Models : Supervised (Regression : Linear; Classification : Logistic, KNN, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)  
-Other skills : C++, DSA
+---
 
-## Contact:
-Mobile: +91-8092652448  
-E-Mail: mitvish2004@gmail.com  
+## 🔧 Tech Stack
 
-## Socials:
-LinkedIn: https://www.linkedin.com/in/mit-vishwakarma-1285ab299/     
-GitHub: https://github.com/MitVishwakarma  
+**Languages**: C, C++, Python, JavaScript  
+**Frontend**: HTML, CSS, React.js, Tailwind CSS, Bootstrap  
+**Backend**: Node.js, Express.js  
+**Databases**: MongoDB, SQL  
+**Core CS**: Data Structures & Algorithms  
+**Tools**: Git, GitHub, Linux, MsExcel, Tableau  
 
-<!--
-**MitVishwakarma/MitVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Wanderlust](https://project-wanderlust-c8hr.onrender.com/listings)
+*Travel Listing & Review App (Inspired by Airbnb)*  
+Tech Stack: Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js  
+- Built RESTful APIs and integrated full-stack features including secure auth, review system, and dynamic image handling.
+- Deployed on Render for live access.
+
+---
+
+## 🚀 What I'm Up To
+- 🔭 Currently exploring more full-stack projects
+- 🧠 Practicing DSA (250+ problems solved on LeetCode and Codeforces)
+- 👨‍💻 Contributor at GirlScript Summer of Code (GSSoC) 2025
+
+---
+
+## 📫 Connect with Me
+
+- 📞 Mobile: +91-8092652448  
+- 📧 Email: mitvish2004@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mit-vishwakarma-1285ab299/)  
+- 💻 [GitHub](https://github.com/MitVishwakarma)  
+- 🧩 [LeetCode](https://leetcode.com/u/MitVishwakarma/)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+So I just build it better.
+
